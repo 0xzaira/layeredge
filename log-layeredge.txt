@@ -83,3 +83,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [08:54:09 | 16-02-2025] ✅ Node started for 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa
+[11:25:20 | 16-02-2025] Wallet Address: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa
+[11:25:20 | 16-02-2025] Node Points: 24506
+[11:25:20 | 16-02-2025] Last Claim Point: 15/02/2025 01:09:40
+[11:25:21 | 16-02-2025] ✅ Points claimed for 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa
+[11:25:22 | 16-02-2025] 🚨 Failed to start node for 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa: [object Object]
