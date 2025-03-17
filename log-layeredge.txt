@@ -686,3 +686,20 @@
 [08:55:51 | 17-03-2025] Wallet Address: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa
 [08:55:51 | 17-03-2025] Node Points: 636953
 [08:55:51 | 17-03-2025] Last Claim Point: 16/03/2025 04:28:02
+[11:28:02 | 17-03-2025] Wallet Address: 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa
+[11:28:02 | 17-03-2025] Node Points: 636953
+[11:28:02 | 17-03-2025] Last Claim Point: 16/03/2025 04:28:02
+[11:28:05 | 17-03-2025] 🚨 Failed to claim points for 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[11:28:05 | 17-03-2025] 🚨 Failed to start node for 0x7f394c047304c1C1735Bc8e67080bbE2261c0eCa: [object Object]
